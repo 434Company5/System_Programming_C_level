@@ -1,0 +1,470 @@
+# CMPSC311 Workload : cmpsc311-sample-1
+# Created      : Tue Feb  4 15:31:36 2020
+# Output       : cmpsc311-assign1-workload.txt
+# Type/params  : type=1, #ops=100, #objs=1
+sample-filesystem-file.txt OPEN
+# Changing workload state from UNINITIALIZED to CREATING
+sample-filesystem-file.txt WRITE 0 23 p.10e q9NifOjE_>Ax!>?eJ
+sample-filesystem-file.txt WRITE 23 121 djKUd)zm17bDrZ%YgeRZ1I<npuXn^&qWclA8Rt%J/#7jnDTgNGhM5DZZ/y}YJ;k8dsMZ>kAys<Fu{}OAir0[(,NRDNz&Wze|Z+.Za>DkN%xrzN?EJGsnc3_M[
+sample-filesystem-file.txt WRITE 144 112 4:Np{[md3?Cd@IPIs!B[62. Xz)jeA],mS0,vKQ.I/E=_QbSm:QB6o8KF6#C]w4K=}.gB_re:1:Lt/fwe*eM=y=zg:=HIE&r&:OXkkK}Yw;S+V~l
+sample-filesystem-file.txt WRITE 256 105 VE}4{/y[k/dvGO9.?Y<@QALR3#!|[y>Or}H)jy6WBKTS40_0d0/q)p2ts8YRj|q0NMxO(@lSxfyBy 4stpT#w>6lFhw*km)oC@3CPX*kP
+sample-filesystem-file.txt WRITE 361 6 ,# .e!
+sample-filesystem-file.txt WRITE 367 22 Ju8cT)78(~Eyi_HK$5~Zzx
+sample-filesystem-file.txt WRITE 389 113 <C$XIXH%Z7CT)c4I|$?h)s2ly::<2y_,H!(?dSj+:i4B$s~H)WPgFYl*N*FQ#q00]5kF,1_SKDwr4}vx!^rGC1W~Q,1d>L/1v*9|HGk^XJ,v=vxYD
+sample-filesystem-file.txt WRITE 502 113 ec}x-ir5XPF}.13?jn_7^&,}Qy>=0|$uq4o)ZX}=;_@)^#&WU/4(gH93K~T$4Jr5+2p<HN2m#P}/ZtE]YPOb[8q0x!sxq rkC{z1wN,i3whags$7$
+sample-filesystem-file.txt WRITE 615 112 5zkrv[Ob/3~^t 7ScX |3?$.$aCy,q@6eY~q1WpWIZC-!ojOdkp~l~r$mPE;okmY.I/d]Ed-+I!%$Hbt-w2Z=8C%&>DZ&R)uki#-%6Q;px-=OYEX
+sample-filesystem-file.txt WRITE 727 52 VfZLPO.JctI3<J-3$8zU$^5hdC50q):+r$}mABne7%l%W:-lWL0(
+sample-filesystem-file.txt WRITE 779 6 :cGNKF
+sample-filesystem-file.txt WRITE 785 123 )661M!Ow_kv(D.M:+PC b(0O~-,g_+u5FKNVu9_I@u0Y5!F=4QQ20<F{*|T55zu}tFxD4Z~tp~VvyU8_wB!BRHbhR1J&CwcBvzrP>!:;0b1U-eKyg7lpmYgtRh1
+sample-filesystem-file.txt WRITE 908 118 <8mp.=)FxgrZalBdXtMsV*W7s@qLFMPK)L/udz5i8I8N73n<O##iTvV/52%)rwZp%Hvwj@5w/u}}vDX5U}&{l2tut<JTjt6xth,hFk-;}NWB;v.Qj7zEeN
+sample-filesystem-file.txt WRITE 1026 102 +q,}%udpaT?{6VlCYirVl&e:<tL4gqUBo:Fm*gxi]}zFEsH!zSP9a@0w=?6jtHsq?Ye^7cx~Q:15~MXXeRS!W~)~1zT0in(1f%X3Vs
+sample-filesystem-file.txt WRITE 1128 57 fO0W~bGJMrlH3q<Etr_0? M|r]g^Gr~5Fdl@~|f!Vq78w23J<8}ZNqa=%
+sample-filesystem-file.txt WRITE 1185 125 -C--3B4%o#;m5Bp,9RS/sm:0] lD|o?&Ptv&%}uu(YLT0U}$P[X-N-D-@Ed/QwHB)4eQ4++~NOZI$BVG@3d3@G)!9ALs7qeY9nFd-ibZWN][Ri%Gp=6PhZjJu5lAq
+sample-filesystem-file.txt WRITE 1310 4 ;=~1
+sample-filesystem-file.txt WRITE 1314 88 rwJ4h&9kBqTlo3u(e~@W?^IGdhvuv(@@s#:z]p n6kax)!K_]t:Oj ged;u>mAERz>[vA0|<>_t6b|8$*WHJGZu3
+sample-filesystem-file.txt WRITE 1402 30 3#-n%Sg1Q[zd$xC.WOu]33xKvt[2 y
+sample-filesystem-file.txt WRITE 1432 9 rS1_6?Fm+
+sample-filesystem-file.txt WRITE 1441 34 2g?sUV%KP8-;RQjc(bw~:d-WR6n. zGKB%
+sample-filesystem-file.txt WRITE 1475 90 @Q)!%ArS5j,0Cw>={&Fd.N^aQ7-H,Ha(*Vv+0Rl;Ec )W4Ww5yg8l5ia^LV1H]|Ax)!H>3dd3:9&.h|b(/GXWN18cf
+sample-filesystem-file.txt WRITE 1565 27 XwJ}!fx.)%/%g H8NZN:!JMSN[_
+sample-filesystem-file.txt WRITE 1592 7 )Gz9Id1
+sample-filesystem-file.txt WRITE 1599 6 _[}b]f
+sample-filesystem-file.txt WRITE 1605 83 %%drf*j2#2o LXXh8t?g)%G&8B5TMmW_WAtfBn2bADpF(7d4VDh+;;5|CFoa05h:?kl_2O^W7;L$[/ O-!@
+sample-filesystem-file.txt WRITE 1688 35 C==Q?r?VE]oLutMR**5Im?*BafpIDn+AH68
+sample-filesystem-file.txt WRITE 1723 8 E#^C-4P#
+sample-filesystem-file.txt WRITE 1731 14 X]B[|cx<4&d|f{
+sample-filesystem-file.txt WRITE 1745 50 e%q$zpv4&I_.t&~Y$f/iQlnY5=zfCh!}0erdw5Wgv3Bcv!xTN]
+sample-filesystem-file.txt WRITE 1795 73 godzuY{v$RzZX/<VP9F5Dz)B02*&kdau2sq>K$njGMvn}plw7]Yel{8tB&,Wlmf/&Q|b8|psM
+sample-filesystem-file.txt WRITE 1868 91 X]jXboAd<<kJf4*0$EIK7nR.+(A2ndq>U@${4cBHcBN]5379erJ|q.Xe|UtgZk3 h@)(&Z@4Jr~XN;M]~~wo.Ot69~Z
+sample-filesystem-file.txt WRITE 1959 40 *3xZ=kY$).{EI.j7&t&t/y<d)1)T}}$hwqgWsEOh
+sample-filesystem-file.txt WRITE 1999 60 q9Pie|)UMA#W5glXKrz{Qt}@ntDj4+<GCJ.]Y3lcvc72-?U0zV0<EGQE1p0!
+sample-filesystem-file.txt WRITE 2059 13 !^R2lmpR+n1Yr
+sample-filesystem-file.txt WRITE 2072 57 rJ%_*H(ECK=g>8,2pf0 TZIvH1A.2JM]z4~a}azSS7tfrjx]c(/}W8AYf
+sample-filesystem-file.txt WRITE 2129 115 )&qS]S7M*tC*Ex4q7+TaEXpJdgC7@8AN|6[g0o3<P|+5JIck -$;xe,B%X<Ee&RTZL<Odlp42Ry+l;xM#N([ 9+<94mzM_M-kC-4|FYP72n*fp{>)Zz
+sample-filesystem-file.txt WRITE 2244 38 -6Xqn_|eP,/*uJ&v,qk7:^;ogaVnUUp,)AeRM@
+sample-filesystem-file.txt WRITE 2282 127 {Z_bO!BC[ s(W;yon}kKUAem}u(R8q5Dpvggwv <LnZm!zT[e#j[M>bPHO)MAc&azKm,OY4U<?wRvhb*e2RMs7K2!>l0}lKwb3MfIKO[JE1Zj1CmP=]O>o+x$ABMjA 
+sample-filesystem-file.txt WRITE 2409 83 4ct+$LnADAwc[,oO~L)J_D(Y9/v]##t[56Z3TcU72MQ~2T|}_5q>dbPvH8MxX).pv@HKn3.aO&@]w^h+|3&
+sample-filesystem-file.txt WRITE 2492 82 YUxl=cpPQ+9>xRI[>-xoSd+?L-n>-L836/8_xJ8#r;S7fb2piQJlu2uJb54vKEF@l28mmt_1WnALw!U~5[
+sample-filesystem-file.txt WRITE 2574 28 }c(4#p;GJb*Q*hIRn,=XwH!lviLL
+sample-filesystem-file.txt WRITE 2602 68 ;xJIlXXHR84Io+5$[6*O}!y^OP(a2PXtt_6$f3-t l_Ct&p/Rst*V8p4&xs_p?Z^^<n7
+sample-filesystem-file.txt WRITE 2670 79 g8/nf<aU?[)NYBq,oW.!iau~/E)|8*(rsIY6*1VU@wJ>]c}-bmkNph^rx0My(6cPA*|N*lanJXP7meK
+sample-filesystem-file.txt WRITE 2749 77 &Xe.Eb*>$6e|3?dQL{*GLE*cQHrO2jz}a>xieYs&vt||J-ImeLp<kBYV 4zm.jm)sdikzFXA5BpJS
+sample-filesystem-file.txt WRITE 2826 41 g[=G6,?4|1uv NPC./GQ<p[rN]szdJY5!kpz=a<u8
+sample-filesystem-file.txt WRITE 2867 22 QPwH37UW)NuOm~UsnC?Kyt
+sample-filesystem-file.txt WRITE 2889 120 9O(S^%COc_zjH0Vo,,]3Ux8rpSLygS(,<0z;+X(YWE=*eO#4+a8]+2_*>1^A,NdVk<)zW.mY8u-Q-OZP}ZSI5)Dq]jb+Z0w8=m7x.]YvA_g@w#{mA|&I:3pK
+sample-filesystem-file.txt WRITE 3009 43 =1dGh4[l:8$rS8|?EfbnC;7j s/{Y=s#C$sqA2!aqLf
+sample-filesystem-file.txt WRITE 3052 73 nEv^L4;$60T4}1YFs12$Mi$ /(aMimY>&2=dww=~m5=$I>>^P>@3TTIV1=^h5|aIOL q[|h;:
+sample-filesystem-file.txt WRITE 3125 13 hK#! l[#]<-4/
+sample-filesystem-file.txt WRITE 3138 122 awXz[&8p4scEex[VW.pGA5oInJ!-kZ3h%@1}I3JM;Vh*H(]W7Vf*}!P-q-KBm@%^ZwYYi1|moC!k]6^J@)E8/@GurID8o8gO5Y,xLQq+=<lhk?dUONKxz5T})t
+sample-filesystem-file.txt WRITE 3260 115 ,;T^(4|9GGl9 S09iR;KU2<hE=k/Gic.ICS}&A5@p5n-d[OyqbR~uJ.mrwydhqGu9dd8rOtjq]<)_?&dQ,JiVm?)#&;u/i5@=xb~%4mI):f8I3El;)S
+sample-filesystem-file.txt WRITE 3375 95 b[1t}>|TH10tXj:hsCkE<2W%F^#*>8T#|UtT^{vcN(5SM3.Jgdw9r2BuLM+n OIsHz50X2SPQi|q9qO6&zpI>x~.4]kD$kM
+sample-filesystem-file.txt WRITE 3470 37 x)QzFh%chnVuZS5a4[|T3{2~Xl#Z~U cPJTg<
+sample-filesystem-file.txt WRITE 3507 103 S|+>fQ3|K(PK#{X/G~Qr/~gn-}kb*bGHcslGdv#RhM&]2FVT>!DV~C|&/~49<[w %0u|Ld!(uez5=%t!#h<YB/YH.k1=FpM<h#ryn9~
+sample-filesystem-file.txt WRITE 3610 77 6|Yo:D#n@G~0h8O&r@iLV(~%xdH^KC>X9cR8.a~(kT}Tklh[#aNwTY:#Nte[4mRv#4Nqy[(2,l8Y7
+sample-filesystem-file.txt WRITE 3687 36 J?5TGB}6pj|1^Ax]7J|qot9K#*#D@LARueyS
+sample-filesystem-file.txt WRITE 3723 126 K;@S-OnEAy6x|Vl+Gq/3$U-c3Q5+|$s=D)kbW &?!A@/Fp0:BU={mhQN%WGZyi=@(vLf2;@|jP!zpOy(^$57N7QTzAfB&2}tJvW760pbGFa|%VMuPJ^-(]0rd;xnwU
+sample-filesystem-file.txt WRITE 3849 109 >)?MBk/5%><wkac,X+C};BbYHr;X?zpe_2u3?Uq;(WB0Hu5Bz+w7Z,CY4jbY_oh0%s|-:JGCXO4}Nb@@7O9:DFdUpR=l22iie-R8hF~s9Y1|$
+sample-filesystem-file.txt WRITE 3958 105 {}~mmR|T%|e3i,*;bP%WLyR}U40K~N$m1?VMk@0;7g{x}{*v7;~%1OH>Niac]bLcH]Ne-qZ+<k^F|-]h>}Qrjl;Kk3ATubBl;W08AY?2Q
+sample-filesystem-file.txt WRITE 4063 36 qC~YhQ-sT0W;/.ZC%FSW#}k(S&|3?2Q2P0(~
+sample-filesystem-file.txt WRITE 4099 101 pdb72vb]DwD=OgtW8,rNaMX@BnE6u+:(;:?{YMy^KehRr:pm,F/8L8[{}4X8UE:gElD$Fe 60~%sc&vQ8pp.]>./ti1dOiGJBi:78
+sample-filesystem-file.txt WRITE 4200 41 zCts*mO~J=GD >5SS%Ht<g}zxbI1j+W:s-V}@o%Z)
+sample-filesystem-file.txt WRITE 4241 24 ,.}YfwUq:I3ngWMepOS&rCVg
+sample-filesystem-file.txt WRITE 4265 102 885|)}A0[ZE*!e_k& g[Cy+Y_Gg-Dy-4He~>KKCxQnD#xx1nN=h7|]vv5;H^_.hY72qDCZKWuyUAmi:W|49E)7y^ZUy:1+9wsB4Jms
+sample-filesystem-file.txt WRITE 4367 38 F(.KXoFwPy[(lnoAWz.sE<-*33X5!!V(HL~bb*
+sample-filesystem-file.txt WRITE 4405 18 _Gpdy)Jr}fo0&>k7XK
+sample-filesystem-file.txt WRITE 4423 52 a9xc%/-1!)jlo=3:>d1th0yN_,s]veysIxI}L%Eau[cfP~EsaAk#
+sample-filesystem-file.txt WRITE 4475 49 EBP-JP^qy~Z1MUyy#8YAm<=4)~V&(BjeU7oS!Z2gYh{z^GE^ 
+sample-filesystem-file.txt WRITE 4524 25 *@FGYi[ey#WASZGKH4Fk>h8;G
+sample-filesystem-file.txt WRITE 4549 60 Q5Y|[-*4j[yk<9LF?5jkpYy;4ioB]]fjoq8xg NW]]4Y[b92Z6uog->/iqBl
+sample-filesystem-file.txt WRITE 4609 71 7H^[6{hD1d(XDW?ohh9k*Su!^q.,b0,=0+CQ3?_CsZE(2KaU+{lW{n.=uoHL:h-h4>{8Jr+
+sample-filesystem-file.txt WRITE 4680 96 DDUP[2:v-)Tgq Dt4MbO?>agQyuQq^26efT(/5XNvf*HOQL@<I/~>q4P)iG?W8k:fCW:2fk#G81X^yd=(V1:DNH4oO)9Yc>s
+sample-filesystem-file.txt WRITE 4776 90 :(lORhX93o:GIHeA8pJ.=A|e>>K7hO!uKXRUnE{tHRyU74 +e3$hPt]gg)eNSw~HIA-c7ofZ!o,83[2Go!]YLyzVs7
+sample-filesystem-file.txt WRITE 4866 124 +WDL0o&kr=}u/ca|tbMqiG~ko:E[Rx2W0D^xcnBGl5/udH}7hD6?|@9T:VzMxZ2MS2g>7y@t3V{dc>>GZ}r]8$:fE UQ&4^1]6}}Qr6E_(}L^F|-e.eqQ$65[-aM
+sample-filesystem-file.txt WRITE 4990 46 YNtLab[Y^y%?qWo=I$4vfTnC18D/e/e3$I!NDNke)beq14
+sample-filesystem-file.txt WRITE 5036 14 ,vnz]]ajv}qu;$
+# Changing workload state from CREATING to PROCESSING
+sample-filesystem-file.txt READ 5050 0 
+sample-filesystem-file.txt READ 0 41 p.10e q9NifOjE_>Ax!>?eJdjKUd)zm17bDrZ%Yge
+sample-filesystem-file.txt READ 41 128 RZ1I<npuXn^&qWclA8Rt%J/#7jnDTgNGhM5DZZ/y}YJ;k8dsMZ>kAys<Fu{}OAir0[(,NRDNz&Wze|Z+.Za>DkN%xrzN?EJGsnc3_M[4:Np{[md3?Cd@IPIs!B[62. X
+sample-filesystem-file.txt READ 169 55 z)jeA],mS0,vKQ.I/E=_QbSm:QB6o8KF6#C]w4K=}.gB_re:1:Lt/fw
+sample-filesystem-file.txt READ 224 1 e
+sample-filesystem-file.txt READ 225 111 *eM=y=zg:=HIE&r&:OXkkK}Yw;S+V~lVE}4{/y[k/dvGO9.?Y<@QALR3#!|[y>Or}H)jy6WBKTS40_0d0/q)p2ts8YRj|q0NMxO(@lSxfyBy 4s
+sample-filesystem-file.txt READ 336 65 tpT#w>6lFhw*km)oC@3CPX*kP,# .e!Ju8cT)78(~Eyi_HK$5~Zzx<C$XIXH%Z7CT
+sample-filesystem-file.txt READ 401 91 )c4I|$?h)s2ly::<2y_,H!(?dSj+:i4B$s~H)WPgFYl*N*FQ#q00]5kF,1_SKDwr4}vx!^rGC1W~Q,1d>L/1v*9|HGk
+sample-filesystem-file.txt READ 492 36 ^XJ,v=vxYDec}x-ir5XPF}.13?jn_7^&,}Qy
+sample-filesystem-file.txt READ 528 42 >=0|$uq4o)ZX}=;_@)^#&WU/4(gH93K~T$4Jr5+2p<
+sample-filesystem-file.txt READ 570 2 HN
+sample-filesystem-file.txt READ 572 27 2m#P}/ZtE]YPOb[8q0x!sxq rkC
+sample-filesystem-file.txt READ 599 52 {z1wN,i3whags$7$5zkrv[Ob/3~^t 7ScX |3?$.$aCy,q@6eY~q
+sample-filesystem-file.txt READ 651 24 1WpWIZC-!ojOdkp~l~r$mPE;
+sample-filesystem-file.txt READ 675 25 okmY.I/d]Ed-+I!%$Hbt-w2Z=
+sample-filesystem-file.txt READ 700 84 8C%&>DZ&R)uki#-%6Q;px-=OYEXVfZLPO.JctI3<J-3$8zU$^5hdC50q):+r$}mABne7%l%W:-lWL0(:cGNK
+sample-filesystem-file.txt READ 784 83 F)661M!Ow_kv(D.M:+PC b(0O~-,g_+u5FKNVu9_I@u0Y5!F=4QQ20<F{*|T55zu}tFxD4Z~tp~VvyU8_wB
+sample-filesystem-file.txt READ 867 2 !B
+sample-filesystem-file.txt READ 869 107 RHbhR1J&CwcBvzrP>!:;0b1U-eKyg7lpmYgtRh1<8mp.=)FxgrZalBdXtMsV*W7s@qLFMPK)L/udz5i8I8N73n<O##iTvV/52%)rwZp%Hvw
+sample-filesystem-file.txt READ 976 17 j@5w/u}}vDX5U}&{l
+sample-filesystem-file.txt READ 993 48 2tut<JTjt6xth,hFk-;}NWB;v.Qj7zEeN+q,}%udpaT?{6Vl
+sample-filesystem-file.txt READ 1041 21 CYirVl&e:<tL4gqUBo:Fm
+sample-filesystem-file.txt READ 1062 87 *gxi]}zFEsH!zSP9a@0w=?6jtHsq?Ye^7cx~Q:15~MXXeRS!W~)~1zT0in(1f%X3VsfO0W~bGJMrlH3q<Etr_0?
+sample-filesystem-file.txt READ 1149 9  M|r]g^Gr
+sample-filesystem-file.txt READ 1158 120 ~5Fdl@~|f!Vq78w23J<8}ZNqa=%-C--3B4%o#;m5Bp,9RS/sm:0] lD|o?&Ptv&%}uu(YLT0U}$P[X-N-D-@Ed/QwHB)4eQ4++~NOZI$BVG@3d3@G)!9ALs7
+sample-filesystem-file.txt READ 1278 82 qeY9nFd-ibZWN][Ri%Gp=6PhZjJu5lAq;=~1rwJ4h&9kBqTlo3u(e~@W?^IGdhvuv(@@s#:z]p n6kax)!
+sample-filesystem-file.txt READ 1360 42 K_]t:Oj ged;u>mAERz>[vA0|<>_t6b|8$*WHJGZu3
+sample-filesystem-file.txt READ 1402 61 3#-n%Sg1Q[zd$xC.WOu]33xKvt[2 yrS1_6?Fm+2g?sUV%KP8-;RQjc(bw~:d
+sample-filesystem-file.txt READ 1463 51 -WR6n. zGKB%@Q)!%ArS5j,0Cw>={&Fd.N^aQ7-H,Ha(*Vv+0Rl
+sample-filesystem-file.txt READ 1514 91 ;Ec )W4Ww5yg8l5ia^LV1H]|Ax)!H>3dd3:9&.h|b(/GXWN18cfXwJ}!fx.)%/%g H8NZN:!JMSN[_)Gz9Id1_[}b]f
+sample-filesystem-file.txt READ 1605 80 %%drf*j2#2o LXXh8t?g)%G&8B5TMmW_WAtfBn2bADpF(7d4VDh+;;5|CFoa05h:?kl_2O^W7;L$[/ O
+sample-filesystem-file.txt READ 1685 75 -!@C==Q?r?VE]oLutMR**5Im?*BafpIDn+AH68E#^C-4P#X]B[|cx<4&d|f{e%q$zpv4&I_.t&~
+sample-filesystem-file.txt READ 1760 64 Y$f/iQlnY5=zfCh!}0erdw5Wgv3Bcv!xTN]godzuY{v$RzZX/<VP9F5Dz)B02*&k
+sample-filesystem-file.txt READ 1824 85 dau2sq>K$njGMvn}plw7]Yel{8tB&,Wlmf/&Q|b8|psMX]jXboAd<<kJf4*0$EIK7nR.+(A2ndq>U@${4cBHc
+sample-filesystem-file.txt READ 1909 97 BN]5379erJ|q.Xe|UtgZk3 h@)(&Z@4Jr~XN;M]~~wo.Ot69~Z*3xZ=kY$).{EI.j7&t&t/y<d)1)T}}$hwqgWsEOhq9Pie|)
+sample-filesystem-file.txt READ 2006 71 UMA#W5glXKrz{Qt}@ntDj4+<GCJ.]Y3lcvc72-?U0zV0<EGQE1p0!!^R2lmpR+n1YrrJ%_*
+sample-filesystem-file.txt READ 2077 27 H(ECK=g>8,2pf0 TZIvH1A.2JM]
+sample-filesystem-file.txt READ 2104 10 z4~a}azSS7
+sample-filesystem-file.txt READ 2114 35 tfrjx]c(/}W8AYf)&qS]S7M*tC*Ex4q7+Ta
+sample-filesystem-file.txt READ 2149 32 EXpJdgC7@8AN|6[g0o3<P|+5JIck -$;
+sample-filesystem-file.txt READ 2181 117 xe,B%X<Ee&RTZL<Odlp42Ry+l;xM#N([ 9+<94mzM_M-kC-4|FYP72n*fp{>)Zz-6Xqn_|eP,/*uJ&v,qk7:^;ogaVnUUp,)AeRM@{Z_bO!BC[ s(W;yo
+sample-filesystem-file.txt READ 2298 39 n}kKUAem}u(R8q5Dpvggwv <LnZm!zT[e#j[M>b
+sample-filesystem-file.txt READ 2337 122 PHO)MAc&azKm,OY4U<?wRvhb*e2RMs7K2!>l0}lKwb3MfIKO[JE1Zj1CmP=]O>o+x$ABMjA 4ct+$LnADAwc[,oO~L)J_D(Y9/v]##t[56Z3TcU72MQ~2T|}_5
+sample-filesystem-file.txt READ 2459 68 q>dbPvH8MxX).pv@HKn3.aO&@]w^h+|3&YUxl=cpPQ+9>xRI[>-xoSd+?L-n>-L836/8
+sample-filesystem-file.txt READ 2527 39 _xJ8#r;S7fb2piQJlu2uJb54vKEF@l28mmt_1Wn
+sample-filesystem-file.txt READ 2566 78 ALw!U~5[}c(4#p;GJb*Q*hIRn,=XwH!lviLL;xJIlXXHR84Io+5$[6*O}!y^OP(a2PXtt_6$f3-t l
+sample-filesystem-file.txt READ 2644 55 _Ct&p/Rst*V8p4&xs_p?Z^^<n7g8/nf<aU?[)NYBq,oW.!iau~/E)|8
+sample-filesystem-file.txt READ 2699 111 *(rsIY6*1VU@wJ>]c}-bmkNph^rx0My(6cPA*|N*lanJXP7meK&Xe.Eb*>$6e|3?dQL{*GLE*cQHrO2jz}a>xieYs&vt||J-ImeLp<kBYV 4zm.
+sample-filesystem-file.txt READ 2810 92 jm)sdikzFXA5BpJSg[=G6,?4|1uv NPC./GQ<p[rN]szdJY5!kpz=a<u8QPwH37UW)NuOm~UsnC?Kyt9O(S^%COc_zjH
+sample-filesystem-file.txt READ 2902 76 0Vo,,]3Ux8rpSLygS(,<0z;+X(YWE=*eO#4+a8]+2_*>1^A,NdVk<)zW.mY8u-Q-OZP}ZSI5)Dq]
+sample-filesystem-file.txt READ 2978 101 jb+Z0w8=m7x.]YvA_g@w#{mA|&I:3pK=1dGh4[l:8$rS8|?EfbnC;7j s/{Y=s#C$sqA2!aqLfnEv^L4;$60T4}1YFs12$Mi$ /(a
+sample-filesystem-file.txt READ 3079 62 MimY>&2=dww=~m5=$I>>^P>@3TTIV1=^h5|aIOL q[|h;:hK#! l[#]<-4/awX
+sample-filesystem-file.txt READ 3141 3 z[&
+sample-filesystem-file.txt READ 3144 83 8p4scEex[VW.pGA5oInJ!-kZ3h%@1}I3JM;Vh*H(]W7Vf*}!P-q-KBm@%^ZwYYi1|moC!k]6^J@)E8/@Gur
+sample-filesystem-file.txt READ 3227 59 ID8o8gO5Y,xLQq+=<lhk?dUONKxz5T})t,;T^(4|9GGl9 S09iR;KU2<hE=
+sample-filesystem-file.txt READ 3286 112 k/Gic.ICS}&A5@p5n-d[OyqbR~uJ.mrwydhqGu9dd8rOtjq]<)_?&dQ,JiVm?)#&;u/i5@=xb~%4mI):f8I3El;)Sb[1t}>|TH10tXj:hsCkE<2W
+sample-filesystem-file.txt READ 3398 29 %F^#*>8T#|UtT^{vcN(5SM3.Jgdw9
+sample-filesystem-file.txt READ 3427 83 r2BuLM+n OIsHz50X2SPQi|q9qO6&zpI>x~.4]kD$kMx)QzFh%chnVuZS5a4[|T3{2~Xl#Z~U cPJTg<S|+
+sample-filesystem-file.txt READ 3510 117 >fQ3|K(PK#{X/G~Qr/~gn-}kb*bGHcslGdv#RhM&]2FVT>!DV~C|&/~49<[w %0u|Ld!(uez5=%t!#h<YB/YH.k1=FpM<h#ryn9~6|Yo:D#n@G~0h8O&r
+sample-filesystem-file.txt READ 3627 91 @iLV(~%xdH^KC>X9cR8.a~(kT}Tklh[#aNwTY:#Nte[4mRv#4Nqy[(2,l8Y7J?5TGB}6pj|1^Ax]7J|qot9K#*#D@LA
+sample-filesystem-file.txt READ 3718 9 RueySK;@S
+sample-filesystem-file.txt READ 3727 78 -OnEAy6x|Vl+Gq/3$U-c3Q5+|$s=D)kbW &?!A@/Fp0:BU={mhQN%WGZyi=@(vLf2;@|jP!zpOy(^$
+sample-filesystem-file.txt READ 3805 92 57N7QTzAfB&2}tJvW760pbGFa|%VMuPJ^-(]0rd;xnwU>)?MBk/5%><wkac,X+C};BbYHr;X?zpe_2u3?Uq;(WB0Hu5B
+sample-filesystem-file.txt READ 3897 41 z+w7Z,CY4jbY_oh0%s|-:JGCXO4}Nb@@7O9:DFdUp
+sample-filesystem-file.txt READ 3938 45 R=l22iie-R8hF~s9Y1|${}~mmR|T%|e3i,*;bP%WLyR}U
+sample-filesystem-file.txt READ 3983 7 40K~N$m
+sample-filesystem-file.txt READ 3990 18 1?VMk@0;7g{x}{*v7;
+sample-filesystem-file.txt READ 4008 79 ~%1OH>Niac]bLcH]Ne-qZ+<k^F|-]h>}Qrjl;Kk3ATubBl;W08AY?2QqC~YhQ-sT0W;/.ZC%FSW#}k(
+sample-filesystem-file.txt READ 4087 127 S&|3?2Q2P0(~pdb72vb]DwD=OgtW8,rNaMX@BnE6u+:(;:?{YMy^KehRr:pm,F/8L8[{}4X8UE:gElD$Fe 60~%sc&vQ8pp.]>./ti1dOiGJBi:78zCts*mO~J=GD >
+sample-filesystem-file.txt READ 4214 59 5SS%Ht<g}zxbI1j+W:s-V}@o%Z),.}YfwUq:I3ngWMepOS&rCVg885|)}A0
+sample-filesystem-file.txt READ 4273 13 [ZE*!e_k& g[C
+sample-filesystem-file.txt READ 4286 9 y+Y_Gg-Dy
+sample-filesystem-file.txt READ 4295 120 -4He~>KKCxQnD#xx1nN=h7|]vv5;H^_.hY72qDCZKWuyUAmi:W|49E)7y^ZUy:1+9wsB4JmsF(.KXoFwPy[(lnoAWz.sE<-*33X5!!V(HL~bb*_Gpdy)Jr}f
+sample-filesystem-file.txt READ 4415 24 o0&>k7XKa9xc%/-1!)jlo=3:
+sample-filesystem-file.txt READ 4439 20 >d1th0yN_,s]veysIxI}
+sample-filesystem-file.txt READ 4459 22 L%Eau[cfP~EsaAk#EBP-JP
+sample-filesystem-file.txt READ 4481 100 ^qy~Z1MUyy#8YAm<=4)~V&(BjeU7oS!Z2gYh{z^GE^ *@FGYi[ey#WASZGKH4Fk>h8;GQ5Y|[-*4j[yk<9LF?5jkpYy;4ioB]]fj
+sample-filesystem-file.txt READ 4581 123 oq8xg NW]]4Y[b92Z6uog->/iqBl7H^[6{hD1d(XDW?ohh9k*Su!^q.,b0,=0+CQ3?_CsZE(2KaU+{lW{n.=uoHL:h-h4>{8Jr+DDUP[2:v-)Tgq Dt4MbO?>ag
+sample-filesystem-file.txt READ 4704 21 QyuQq^26efT(/5XNvf*HO
+sample-filesystem-file.txt READ 4725 113 QL@<I/~>q4P)iG?W8k:fCW:2fk#G81X^yd=(V1:DNH4oO)9Yc>s:(lORhX93o:GIHeA8pJ.=A|e>>K7hO!uKXRUnE{tHRyU74 +e3$hPt]gg)eNSw
+sample-filesystem-file.txt READ 4838 94 ~HIA-c7ofZ!o,83[2Go!]YLyzVs7+WDL0o&kr=}u/ca|tbMqiG~ko:E[Rx2W0D^xcnBGl5/udH}7hD6?|@9T:VzMxZ2MS2
+sample-filesystem-file.txt READ 4932 52 g>7y@t3V{dc>>GZ}r]8$:fE UQ&4^1]6}}Qr6E_(}L^F|-e.eqQ$
+sample-filesystem-file.txt READ 4984 66 65[-aMYNtLab[Y^y%?qWo=I$4vfTnC18D/e/e3$I!NDNke)beq14,vnz]]ajv}qu;$
+sample-filesystem-file.txt READ 0 26 p.10e q9NifOjE_>Ax!>?eJdjK
+sample-filesystem-file.txt READ 26 122 Ud)zm17bDrZ%YgeRZ1I<npuXn^&qWclA8Rt%J/#7jnDTgNGhM5DZZ/y}YJ;k8dsMZ>kAys<Fu{}OAir0[(,NRDNz&Wze|Z+.Za>DkN%xrzN?EJGsnc3_M[4:Np
+sample-filesystem-file.txt READ 148 63 {[md3?Cd@IPIs!B[62. Xz)jeA],mS0,vKQ.I/E=_QbSm:QB6o8KF6#C]w4K=}.
+sample-filesystem-file.txt READ 211 21 gB_re:1:Lt/fwe*eM=y=z
+sample-filesystem-file.txt READ 232 57 g:=HIE&r&:OXkkK}Yw;S+V~lVE}4{/y[k/dvGO9.?Y<@QALR3#!|[y>Or
+sample-filesystem-file.txt READ 289 49 }H)jy6WBKTS40_0d0/q)p2ts8YRj|q0NMxO(@lSxfyBy 4stp
+sample-filesystem-file.txt READ 338 29 T#w>6lFhw*km)oC@3CPX*kP,# .e!
+sample-filesystem-file.txt READ 367 69 Ju8cT)78(~Eyi_HK$5~Zzx<C$XIXH%Z7CT)c4I|$?h)s2ly::<2y_,H!(?dSj+:i4B$s~
+sample-filesystem-file.txt READ 436 6 H)WPgF
+sample-filesystem-file.txt READ 442 51 Yl*N*FQ#q00]5kF,1_SKDwr4}vx!^rGC1W~Q,1d>L/1v*9|HGk^
+sample-filesystem-file.txt READ 493 3 XJ,
+sample-filesystem-file.txt READ 496 49 v=vxYDec}x-ir5XPF}.13?jn_7^&,}Qy>=0|$uq4o)ZX}=;_@
+sample-filesystem-file.txt READ 545 34 )^#&WU/4(gH93K~T$4Jr5+2p<HN2m#P}/Z
+sample-filesystem-file.txt READ 579 6 tE]YPO
+sample-filesystem-file.txt READ 585 75 b[8q0x!sxq rkC{z1wN,i3whags$7$5zkrv[Ob/3~^t 7ScX |3?$.$aCy,q@6eY~q1WpWIZC-!
+sample-filesystem-file.txt READ 660 93 ojOdkp~l~r$mPE;okmY.I/d]Ed-+I!%$Hbt-w2Z=8C%&>DZ&R)uki#-%6Q;px-=OYEXVfZLPO.JctI3<J-3$8zU$^5hdC
+sample-filesystem-file.txt READ 753 22 50q):+r$}mABne7%l%W:-l
+# Changing workload state from PROCESSING to FINISHING
+sample-filesystem-file.txt WRITE 0 18 012345678901234567
+sample-filesystem-file.txt WRITE 18 18 890123456789012345
+sample-filesystem-file.txt WRITE 36 18 678901234567890123
+sample-filesystem-file.txt WRITE 54 18 456789012345678901
+sample-filesystem-file.txt WRITE 72 18 234567890123456789
+sample-filesystem-file.txt WRITE 90 18 0123456789@0123456
+sample-filesystem-file.txt WRITE 108 18 789012345678901234
+sample-filesystem-file.txt WRITE 126 18 567890123456789012
+sample-filesystem-file.txt WRITE 144 18 345678901234567890
+sample-filesystem-file.txt WRITE 162 18 123456789012345678
+sample-filesystem-file.txt WRITE 180 18 901234567890123456
+sample-filesystem-file.txt WRITE 198 18 789@01234567890123
+sample-filesystem-file.txt WRITE 216 18 456789012345678901
+sample-filesystem-file.txt WRITE 234 18 234567890123456789
+sample-filesystem-file.txt WRITE 252 18 012345678901234567
+sample-filesystem-file.txt WRITE 270 18 890123456789012345
+sample-filesystem-file.txt WRITE 288 18 67890123456789@012
+sample-filesystem-file.txt WRITE 306 18 345678901234567890
+sample-filesystem-file.txt WRITE 324 18 123456789012345678
+sample-filesystem-file.txt WRITE 342 18 901234567890123456
+sample-filesystem-file.txt WRITE 360 18 789012345678901234
+sample-filesystem-file.txt WRITE 378 18 567890123456789012
+sample-filesystem-file.txt WRITE 396 18 3456789@0123456789
+sample-filesystem-file.txt WRITE 414 18 012345678901234567
+sample-filesystem-file.txt WRITE 432 18 890123456789012345
+sample-filesystem-file.txt WRITE 450 18 678901234567890123
+sample-filesystem-file.txt WRITE 468 18 456789012345678901
+sample-filesystem-file.txt WRITE 486 18 234567890123456789
+sample-filesystem-file.txt WRITE 504 18 @01234567890123456
+sample-filesystem-file.txt WRITE 522 18 789012345678901234
+sample-filesystem-file.txt WRITE 540 18 567890123456789012
+sample-filesystem-file.txt WRITE 558 18 345678901234567890
+sample-filesystem-file.txt WRITE 576 18 123456789012345678
+sample-filesystem-file.txt WRITE 594 18 90123456789@012345
+sample-filesystem-file.txt WRITE 612 18 678901234567890123
+sample-filesystem-file.txt WRITE 630 18 456789012345678901
+sample-filesystem-file.txt WRITE 648 18 234567890123456789
+sample-filesystem-file.txt WRITE 666 18 012345678901234567
+sample-filesystem-file.txt WRITE 684 18 890123456789012345
+sample-filesystem-file.txt WRITE 702 18 6789@0123456789012
+sample-filesystem-file.txt WRITE 720 18 345678901234567890
+sample-filesystem-file.txt WRITE 738 18 123456789012345678
+sample-filesystem-file.txt WRITE 756 18 901234567890123456
+sample-filesystem-file.txt WRITE 774 18 789012345678901234
+sample-filesystem-file.txt WRITE 792 18 567890123456789@01
+sample-filesystem-file.txt WRITE 810 18 234567890123456789
+sample-filesystem-file.txt WRITE 828 18 012345678901234567
+sample-filesystem-file.txt WRITE 846 18 890123456789012345
+sample-filesystem-file.txt WRITE 864 18 678901234567890123
+sample-filesystem-file.txt WRITE 882 18 456789012345678901
+sample-filesystem-file.txt WRITE 900 18 23456789@012345678
+sample-filesystem-file.txt WRITE 918 18 901234567890123456
+sample-filesystem-file.txt WRITE 936 18 789012345678901234
+sample-filesystem-file.txt WRITE 954 18 567890123456789012
+sample-filesystem-file.txt WRITE 972 18 345678901234567890
+sample-filesystem-file.txt WRITE 990 18 123456789012345678
+sample-filesystem-file.txt WRITE 1008 18 9@0123456789012345
+sample-filesystem-file.txt WRITE 1026 18 678901234567890123
+sample-filesystem-file.txt WRITE 1044 18 456789012345678901
+sample-filesystem-file.txt WRITE 1062 18 234567890123456789
+sample-filesystem-file.txt WRITE 1080 18 012345678901234567
+sample-filesystem-file.txt WRITE 1098 18 890123456789@01234
+sample-filesystem-file.txt WRITE 1116 18 567890123456789012
+sample-filesystem-file.txt WRITE 1134 18 345678901234567890
+sample-filesystem-file.txt WRITE 1152 18 123456789012345678
+sample-filesystem-file.txt WRITE 1170 18 901234567890123456
+sample-filesystem-file.txt WRITE 1188 18 789012345678901234
+sample-filesystem-file.txt WRITE 1206 18 56789@012345678901
+sample-filesystem-file.txt WRITE 1224 18 234567890123456789
+sample-filesystem-file.txt WRITE 1242 18 012345678901234567
+sample-filesystem-file.txt WRITE 1260 18 890123456789012345
+sample-filesystem-file.txt WRITE 1278 18 678901234567890123
+sample-filesystem-file.txt WRITE 1296 18 4567890123456789@0
+sample-filesystem-file.txt WRITE 1314 18 123456789012345678
+sample-filesystem-file.txt WRITE 1332 18 901234567890123456
+sample-filesystem-file.txt WRITE 1350 18 789012345678901234
+sample-filesystem-file.txt WRITE 1368 18 567890123456789012
+sample-filesystem-file.txt WRITE 1386 18 345678901234567890
+sample-filesystem-file.txt WRITE 1404 18 123456789@01234567
+sample-filesystem-file.txt WRITE 1422 18 890123456789012345
+sample-filesystem-file.txt WRITE 1440 18 678901234567890123
+sample-filesystem-file.txt WRITE 1458 18 456789012345678901
+sample-filesystem-file.txt WRITE 1476 18 234567890123456789
+sample-filesystem-file.txt WRITE 1494 18 012345678901234567
+sample-filesystem-file.txt WRITE 1512 18 89@012345678901234
+sample-filesystem-file.txt WRITE 1530 18 567890123456789012
+sample-filesystem-file.txt WRITE 1548 18 345678901234567890
+sample-filesystem-file.txt WRITE 1566 18 123456789012345678
+sample-filesystem-file.txt WRITE 1584 18 901234567890123456
+sample-filesystem-file.txt WRITE 1602 18 7890123456789@0123
+sample-filesystem-file.txt WRITE 1620 18 456789012345678901
+sample-filesystem-file.txt WRITE 1638 18 234567890123456789
+sample-filesystem-file.txt WRITE 1656 18 012345678901234567
+sample-filesystem-file.txt WRITE 1674 18 890123456789012345
+sample-filesystem-file.txt WRITE 1692 18 678901234567890123
+sample-filesystem-file.txt WRITE 1710 18 456789@01234567890
+sample-filesystem-file.txt WRITE 1728 18 123456789012345678
+sample-filesystem-file.txt WRITE 1746 18 901234567890123456
+sample-filesystem-file.txt WRITE 1764 18 789012345678901234
+sample-filesystem-file.txt WRITE 1782 18 567890123456789012
+sample-filesystem-file.txt WRITE 1800 18 34567890123456789@
+sample-filesystem-file.txt WRITE 1818 18 012345678901234567
+sample-filesystem-file.txt WRITE 1836 18 890123456789012345
+sample-filesystem-file.txt WRITE 1854 18 678901234567890123
+sample-filesystem-file.txt WRITE 1872 18 456789012345678901
+sample-filesystem-file.txt WRITE 1890 18 234567890123456789
+sample-filesystem-file.txt WRITE 1908 18 0123456789@0123456
+sample-filesystem-file.txt WRITE 1926 18 789012345678901234
+sample-filesystem-file.txt WRITE 1944 18 567890123456789012
+sample-filesystem-file.txt WRITE 1962 18 345678901234567890
+sample-filesystem-file.txt WRITE 1980 18 123456789012345678
+sample-filesystem-file.txt WRITE 1998 18 901234567890123456
+sample-filesystem-file.txt WRITE 2016 18 789@01234567890123
+sample-filesystem-file.txt WRITE 2034 18 456789012345678901
+sample-filesystem-file.txt WRITE 2052 18 234567890123456789
+sample-filesystem-file.txt WRITE 2070 18 012345678901234567
+sample-filesystem-file.txt WRITE 2088 18 890123456789012345
+sample-filesystem-file.txt WRITE 2106 18 67890123456789@012
+sample-filesystem-file.txt WRITE 2124 18 345678901234567890
+sample-filesystem-file.txt WRITE 2142 18 123456789012345678
+sample-filesystem-file.txt WRITE 2160 18 901234567890123456
+sample-filesystem-file.txt WRITE 2178 18 789012345678901234
+sample-filesystem-file.txt WRITE 2196 18 567890123456789012
+sample-filesystem-file.txt WRITE 2214 18 3456789@0123456789
+sample-filesystem-file.txt WRITE 2232 18 012345678901234567
+sample-filesystem-file.txt WRITE 2250 18 890123456789012345
+sample-filesystem-file.txt WRITE 2268 18 678901234567890123
+sample-filesystem-file.txt WRITE 2286 18 456789012345678901
+sample-filesystem-file.txt WRITE 2304 18 234567890123456789
+sample-filesystem-file.txt WRITE 2322 18 @01234567890123456
+sample-filesystem-file.txt WRITE 2340 18 789012345678901234
+sample-filesystem-file.txt WRITE 2358 18 567890123456789012
+sample-filesystem-file.txt WRITE 2376 18 345678901234567890
+sample-filesystem-file.txt WRITE 2394 18 123456789012345678
+sample-filesystem-file.txt WRITE 2412 18 90123456789@012345
+sample-filesystem-file.txt WRITE 2430 18 678901234567890123
+sample-filesystem-file.txt WRITE 2448 18 456789012345678901
+sample-filesystem-file.txt WRITE 2466 18 234567890123456789
+sample-filesystem-file.txt WRITE 2484 18 012345678901234567
+sample-filesystem-file.txt WRITE 2502 18 890123456789012345
+sample-filesystem-file.txt WRITE 2520 18 6789@0123456789012
+sample-filesystem-file.txt WRITE 2538 18 345678901234567890
+sample-filesystem-file.txt WRITE 2556 18 123456789012345678
+sample-filesystem-file.txt WRITE 2574 18 901234567890123456
+sample-filesystem-file.txt WRITE 2592 18 789012345678901234
+sample-filesystem-file.txt WRITE 2610 18 567890123456789@01
+sample-filesystem-file.txt WRITE 2628 18 234567890123456789
+sample-filesystem-file.txt WRITE 2646 18 012345678901234567
+sample-filesystem-file.txt WRITE 2664 18 890123456789012345
+sample-filesystem-file.txt WRITE 2682 18 678901234567890123
+sample-filesystem-file.txt WRITE 2700 18 456789012345678901
+sample-filesystem-file.txt WRITE 2718 18 23456789@012345678
+sample-filesystem-file.txt WRITE 2736 18 901234567890123456
+sample-filesystem-file.txt WRITE 2754 18 789012345678901234
+sample-filesystem-file.txt WRITE 2772 18 567890123456789012
+sample-filesystem-file.txt WRITE 2790 18 345678901234567890
+sample-filesystem-file.txt WRITE 2808 18 123456789012345678
+sample-filesystem-file.txt WRITE 2826 18 9@0123456789012345
+sample-filesystem-file.txt WRITE 2844 18 678901234567890123
+sample-filesystem-file.txt WRITE 2862 18 456789012345678901
+sample-filesystem-file.txt WRITE 2880 18 234567890123456789
+sample-filesystem-file.txt WRITE 2898 18 012345678901234567
+sample-filesystem-file.txt WRITE 2916 18 890123456789@01234
+sample-filesystem-file.txt WRITE 2934 18 567890123456789012
+sample-filesystem-file.txt WRITE 2952 18 345678901234567890
+sample-filesystem-file.txt WRITE 2970 18 123456789012345678
+sample-filesystem-file.txt WRITE 2988 18 901234567890123456
+sample-filesystem-file.txt WRITE 3006 18 789012345678901234
+sample-filesystem-file.txt WRITE 3024 18 56789@012345678901
+sample-filesystem-file.txt WRITE 3042 18 234567890123456789
+sample-filesystem-file.txt WRITE 3060 18 012345678901234567
+sample-filesystem-file.txt WRITE 3078 18 890123456789012345
+sample-filesystem-file.txt WRITE 3096 18 678901234567890123
+sample-filesystem-file.txt WRITE 3114 18 4567890123456789@0
+sample-filesystem-file.txt WRITE 3132 18 123456789012345678
+sample-filesystem-file.txt WRITE 3150 18 901234567890123456
+sample-filesystem-file.txt WRITE 3168 18 789012345678901234
+sample-filesystem-file.txt WRITE 3186 18 567890123456789012
+sample-filesystem-file.txt WRITE 3204 18 345678901234567890
+sample-filesystem-file.txt WRITE 3222 18 123456789@01234567
+sample-filesystem-file.txt WRITE 3240 18 890123456789012345
+sample-filesystem-file.txt WRITE 3258 18 678901234567890123
+sample-filesystem-file.txt WRITE 3276 18 456789012345678901
+sample-filesystem-file.txt WRITE 3294 18 234567890123456789
+sample-filesystem-file.txt WRITE 3312 18 012345678901234567
+sample-filesystem-file.txt WRITE 3330 18 89@012345678901234
+sample-filesystem-file.txt WRITE 3348 18 567890123456789012
+sample-filesystem-file.txt WRITE 3366 18 345678901234567890
+sample-filesystem-file.txt WRITE 3384 18 123456789012345678
+sample-filesystem-file.txt WRITE 3402 18 901234567890123456
+sample-filesystem-file.txt WRITE 3420 18 7890123456789@0123
+sample-filesystem-file.txt WRITE 3438 18 456789012345678901
+sample-filesystem-file.txt WRITE 3456 18 234567890123456789
+sample-filesystem-file.txt WRITE 3474 18 012345678901234567
+sample-filesystem-file.txt WRITE 3492 18 890123456789012345
+sample-filesystem-file.txt WRITE 3510 18 678901234567890123
+sample-filesystem-file.txt WRITE 3528 18 456789@01234567890
+sample-filesystem-file.txt WRITE 3546 18 123456789012345678
+sample-filesystem-file.txt WRITE 3564 18 901234567890123456
+sample-filesystem-file.txt WRITE 3582 18 789012345678901234
+sample-filesystem-file.txt WRITE 3600 18 567890123456789012
+sample-filesystem-file.txt WRITE 3618 18 34567890123456789@
+sample-filesystem-file.txt WRITE 3636 18 012345678901234567
+sample-filesystem-file.txt WRITE 3654 18 890123456789012345
+sample-filesystem-file.txt WRITE 3672 18 678901234567890123
+sample-filesystem-file.txt WRITE 3690 18 456789012345678901
+sample-filesystem-file.txt WRITE 3708 18 234567890123456789
+sample-filesystem-file.txt WRITE 3726 18 0123456789@0123456
+sample-filesystem-file.txt WRITE 3744 18 789012345678901234
+sample-filesystem-file.txt WRITE 3762 18 567890123456789012
+sample-filesystem-file.txt WRITE 3780 18 345678901234567890
+sample-filesystem-file.txt WRITE 3798 18 123456789012345678
+sample-filesystem-file.txt WRITE 3816 18 901234567890123456
+sample-filesystem-file.txt WRITE 3834 18 789@01234567890123
+sample-filesystem-file.txt WRITE 3852 18 456789012345678901
+sample-filesystem-file.txt WRITE 3870 18 234567890123456789
+sample-filesystem-file.txt WRITE 3888 18 012345678901234567
+sample-filesystem-file.txt WRITE 3906 18 890123456789012345
+sample-filesystem-file.txt WRITE 3924 18 67890123456789@012
+sample-filesystem-file.txt WRITE 3942 18 345678901234567890
+sample-filesystem-file.txt WRITE 3960 18 123456789012345678
+sample-filesystem-file.txt WRITE 3978 18 901234567890123456
+sample-filesystem-file.txt WRITE 3996 18 789012345678901234
+sample-filesystem-file.txt WRITE 4014 18 567890123456789012
+sample-filesystem-file.txt WRITE 4032 18 3456789@0123456789
+sample-filesystem-file.txt WRITE 4050 18 012345678901234567
+sample-filesystem-file.txt WRITE 4068 18 890123456789012345
+sample-filesystem-file.txt WRITE 4086 18 678901234567890123
+sample-filesystem-file.txt WRITE 4104 18 456789012345678901
+sample-filesystem-file.txt WRITE 4122 18 234567890123456789
+sample-filesystem-file.txt WRITE 4140 18 @01234567890123456
+sample-filesystem-file.txt WRITE 4158 18 789012345678901234
+sample-filesystem-file.txt WRITE 4176 18 567890123456789012
+sample-filesystem-file.txt WRITE 4194 18 345678901234567890
+sample-filesystem-file.txt WRITE 4212 18 123456789012345678
+sample-filesystem-file.txt WRITE 4230 18 90123456789@012345
+sample-filesystem-file.txt WRITE 4248 18 678901234567890123
+sample-filesystem-file.txt WRITE 4266 18 456789012345678901
+sample-filesystem-file.txt WRITE 4284 18 234567890123456789
+sample-filesystem-file.txt WRITE 4302 18 012345678901234567
+sample-filesystem-file.txt WRITE 4320 18 890123456789012345
+sample-filesystem-file.txt WRITE 4338 18 6789@0123456789012
+sample-filesystem-file.txt WRITE 4356 18 345678901234567890
+sample-filesystem-file.txt WRITE 4374 18 123456789012345678
+sample-filesystem-file.txt WRITE 4392 18 901234567890123456
+sample-filesystem-file.txt WRITE 4410 18 789012345678901234
+sample-filesystem-file.txt WRITE 4428 18 567890123456789@01
+sample-filesystem-file.txt WRITE 4446 18 234567890123456789
+sample-filesystem-file.txt WRITE 4464 18 012345678901234567
+sample-filesystem-file.txt WRITE 4482 18 890123456789012345
+sample-filesystem-file.txt WRITE 4500 18 678901234567890123
+sample-filesystem-file.txt WRITE 4518 18 456789012345678901
+sample-filesystem-file.txt WRITE 4536 18 23456789@012345678
+sample-filesystem-file.txt WRITE 4554 18 901234567890123456
+sample-filesystem-file.txt WRITE 4572 18 789012345678901234
+sample-filesystem-file.txt WRITE 4590 18 567890123456789012
+sample-filesystem-file.txt WRITE 4608 18 345678901234567890
+sample-filesystem-file.txt WRITE 4626 18 123456789012345678
+sample-filesystem-file.txt WRITE 4644 18 9@0123456789012345
+sample-filesystem-file.txt WRITE 4662 18 678901234567890123
+sample-filesystem-file.txt WRITE 4680 18 456789012345678901
+sample-filesystem-file.txt WRITE 4698 18 234567890123456789
+sample-filesystem-file.txt WRITE 4716 18 012345678901234567
+sample-filesystem-file.txt WRITE 4734 18 890123456789@01234
+sample-filesystem-file.txt WRITE 4752 18 567890123456789012
+sample-filesystem-file.txt WRITE 4770 18 345678901234567890
+sample-filesystem-file.txt WRITE 4788 18 123456789012345678
+sample-filesystem-file.txt WRITE 4806 18 901234567890123456
+sample-filesystem-file.txt WRITE 4824 18 789012345678901234
+sample-filesystem-file.txt WRITE 4842 18 56789@012345678901
+sample-filesystem-file.txt WRITE 4860 18 234567890123456789
+sample-filesystem-file.txt WRITE 4878 18 012345678901234567
+sample-filesystem-file.txt WRITE 4896 18 890123456789012345
+sample-filesystem-file.txt WRITE 4914 18 678901234567890123
+sample-filesystem-file.txt WRITE 4932 18 4567890123456789@0
+sample-filesystem-file.txt WRITE 4950 18 123456789012345678
+sample-filesystem-file.txt WRITE 4968 18 901234567890123456
+sample-filesystem-file.txt WRITE 4986 18 789012345678901234
+sample-filesystem-file.txt WRITE 5004 18 567890123456789012
+sample-filesystem-file.txt WRITE 5022 18 345678901234567890
+sample-filesystem-file.txt WRITE 5040 10 123456789@
+sample-filesystem-file.txt CLOSE
+# Changing workload state from FINISHING to COMPLETED
+# CMPSC311 Workload cmpsc311-sample-1 completed, 100 operations.

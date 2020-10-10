@@ -1,0 +1,4 @@
+# Hardware configuration for Assignment #2
+# CMPSC311 - Spring 2020 - Prof. McDaniel
+
+5 10 64
